@@ -16,6 +16,6 @@ This site primarily revolves around the following topics:
 
 ---
 
-The consequences for human welfare involved in questions like these are simply staggering: Once one starts to think about them, it is hard to think about anything else.
+**The consequences for human welfare involved in questions like these are simply staggering: Once one starts to think about them, it is hard to think about anything else.**
 
----- Robert Lucas, Jr., *On the Machanics of Economic Development*
+Robert Lucas, Jr., *On the Machanics of Economic Development*
