@@ -10,11 +10,15 @@ permalink: /notes/
 
 ### International Trade
 - 📄 [International Trade Notes (PDF)](/assets/notes/courses/international-trade.pdf)
-- 📅 Updated: 2025-01
+- 📅 Updated: 2026-01
 
 ### Cross-sectional and Panel Data Analysis  
 - 📄 [Panel Data Analysis Notes (PDF)](/assets/notes/courses/panel-data-analysis.pdf)
-- 📅 Updated: 2025-01
+- 📅 Updated: 2026-01
+
+### Money and Banking
+- 📄 [Money and Banking Notes (PDF)](/assets/notes/courses/money-and-banking.pdf)
+- 📅 Updated: 2026-01
 
 ---
 
@@ -22,7 +26,7 @@ permalink: /notes/
 
 ### CES Utility
 - 📄 [CES Utility Function Notes (PDF)](/assets/notes/topics/ces-utility.pdf)
-- 📅 Updated: 2025-01
+- 📅 Updated: 2026-01
 
 ---
 
