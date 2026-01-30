@@ -4,13 +4,15 @@ title: Home
 permalink: /
 ---
 
-# Welcome to my personal website!
-
-## About Me
+# About Me
 
 Hello, I'm **Punuo Zhang**. (The pronunciation of my first name is like "Pro", so you can call me Pro, though I am not a pro in any sense.)
 
 I am a junior at Fudan University. My major is Mathematial Economics (which in fact has nothing to do with maths...). My current research interest (perhaps call it "study interest" would be more appropriate) lies in Macro-finance, a combination of Macroeconomics, Finance, Asset Pricing, Game Theory, and a little about Political Economy. I believe these seemingly uncorrelated fields have some intrinsic dependence on each other. 
+
+---
+
+# Yapping
 
 In my opinion, there are two kinds of economic research which fascinates me most: i) those develop a model or a theory to capture the essential nature of our society, and ii) those reveal fundamental facts about our society. Stories are good, intuitions would be better, but please show me your model!
 
@@ -20,7 +22,9 @@ Here is my favorite quote:
 
 Robert Lucas, Jr., *On the Machanics of Economic Development*
 
-## What You'll Find on this Website
+---
+
+# What to Expect on this Website
 
 This site primarily revolves around the following topics:
 
