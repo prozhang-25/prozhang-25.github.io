@@ -8,6 +8,9 @@ permalink: /notes/
 
 Notes on my website can be divided into two parts: i) Courses, which contains some lecture notes for certain courses, and ii) Topics, where I put some self-learning materials for certain topics.
 
+---
+
+
 ## Courses
 
 ### International Trade
@@ -23,6 +26,7 @@ Notes on my website can be divided into two parts: i) Courses, which contains so
 - This is my notes for Money and Banking at Fudan, taught by Prof. Sun Lijian. The notes are highly related with Mishkin's textbook, but less related with lectures. Nevertheless, it is a good material for self-learning in order to build a basic framework of monetary economics and to prepare for the final exam.
 
 ---
+
 
 ## Topics
 
