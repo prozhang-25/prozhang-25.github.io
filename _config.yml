@@ -1,4 +1,58 @@
-remote_theme: pages-themes/slate@v0.2.0
+# Site settings
+title: Punuo Zhang's Personal Website
+description: My personal website for notes, articles, and photography
+url: "https://prozhang-25.github.io"
+baseurl: ""
+
+# Author information
+author:
+  name: Punuo Zhang
+  email: your-email@example.com # 改成你的邮箱
+
+# Build settings
+markdown: kramdown
+theme: minima # 你可以更换其他主题
+
+# Kramdown settings (支持数学公式)
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Plugins
 plugins:
-title: Punuo Zhang
-description: Email: prozhang25@gmail.com
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false
+
+# Navigation (if your theme supports it)
+header_pages:
+  - index.md
+  - notes.md
+  - articles.md
+  - photos.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
