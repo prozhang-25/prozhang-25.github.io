@@ -41,7 +41,7 @@ defaults:
 
 # Navigation (if your theme supports it)
 header_pages:
-  - index.md
+  - README.md
   - notes.md
   - articles.md
   - photos.md
