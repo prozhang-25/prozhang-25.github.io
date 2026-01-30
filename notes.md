@@ -6,26 +6,27 @@ permalink: /notes/
 
 # Notes
 
-这里是我的学习笔记和日常思考记录。
+## Courses
 
-## 分类
+### International Trade
+- 📄 [International Trade Notes (PDF)](/assets/notes/courses/international-trade.pdf)
+- 📅 Updated: 2025-01
 
-- 宏观经济学
-- 金融学
-- 数学经济学
-- 随笔
-
----
-
-## 最新笔记
-
-{% for post in site.categories.notes limit:10 %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}
-{% endfor %}
+### Cross-sectional and Panel Data Analysis  
+- 📄 [Panel Data Analysis Notes (PDF)](/assets/notes/courses/panel-data-analysis.pdf)
+- 📅 Updated: 2025-01
 
 ---
 
-## 所有笔记
+## Topics
+
+### CES Utility
+- 📄 [CES Utility Function Notes (PDF)](/assets/notes/topics/ces-utility.pdf)
+- 📅 Updated: 2025-01
+
+---
+
+## All Notes Posts
 
 {% for post in site.categories.notes %}
 ### [{{ post.title }}]({{ post.url }})
